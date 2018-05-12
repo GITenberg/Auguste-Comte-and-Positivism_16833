@@ -1,0 +1,31 @@
+_repo: Auguste-Comte-and-Positivism_16833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: Cover; Auguste Comte and Positivism; Copyright; PART I.; THE COURS DE
+  PHILOSOPHIE POSITIVE.; PART II; THE LATER SPECULATIONS OF M. COMTE.[22]; FOOTNOTES.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2005-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comte, Auguste, 1798-1857'
+- !lcc 'B'
+- !lcsh 'Positivism'
+title: Auguste Comte and Positivism
+url: http://www.gutenberg.org/ebooks/16833
